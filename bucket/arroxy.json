@@ -1,0 +1,14 @@
+{
+  "version": "0.0.0",
+  "description": "Arroxy — YouTube downloader",
+  "homepage": "https://github.com/antonio-orionus/Arroxy",
+  "license": "MIT",
+  "url": "https://github.com/antonio-orionus/Arroxy/releases/download/v0.0.0/Arroxy-Portable-0.0.0.exe",
+  "hash": "0000000000000000000000000000000000000000000000000000000000000000",
+  "bin": "Arroxy-Portable-0.0.0.exe",
+  "shortcuts": [["Arroxy-Portable-0.0.0.exe", "Arroxy"]],
+  "checkver": "github",
+  "autoupdate": {
+    "url": "https://github.com/antonio-orionus/Arroxy/releases/download/v$version/Arroxy-Portable-$version.exe"
+  }
+}
