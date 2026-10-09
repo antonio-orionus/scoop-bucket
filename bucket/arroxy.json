@@ -1,10 +1,10 @@
 {
-  "version": "0.4.19",
+  "version": "0.4.20",
   "description": "Arroxy — YouTube downloader",
   "homepage": "https://github.com/antonio-orionus/Arroxy",
   "license": "MIT",
-  "url": "https://github.com/antonio-orionus/Arroxy/releases/download/v0.4.19/Arroxy-win-x64-Portable.exe",
-  "hash": "sha256:46eb23be40e81a4e58071d1ca00dd86fa1f1761c3671105110b2677b8d0aecc4",
+  "url": "https://github.com/antonio-orionus/Arroxy/releases/download/v0.4.20/Arroxy-win-x64-Portable.exe",
+  "hash": "sha256:da00bbd1fd129f318b128b2f7be97176a9aa859f8a4e87a5bff2960971d19763",
   "bin": "Arroxy-win-x64-Portable.exe",
   "shortcuts": [
     [
