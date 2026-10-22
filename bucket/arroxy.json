@@ -1,10 +1,10 @@
 {
-  "version": "0.7.3",
+  "version": "0.7.4",
   "description": "Free, open-source video downloader for YouTube and 2000+ other sites, with a built-in browser for sites that need a sign-in.",
   "homepage": "https://github.com/antonio-orionus/Arroxy",
   "license": "GPL-3.0-or-later",
-  "url": "https://github.com/antonio-orionus/Arroxy/releases/download/v0.7.3/Arroxy-win-x64-Portable.exe",
-  "hash": "sha256:90abace7a650eab403acc5084031d21a561aabfa46a3bcf75ddf810836686603",
+  "url": "https://github.com/antonio-orionus/Arroxy/releases/download/v0.7.4/Arroxy-win-x64-Portable.exe",
+  "hash": "sha256:26720261a3feb963c31e10e486a1c5c58c29479f8f2b32c80852957f2f41ac4a",
   "bin": "Arroxy-win-x64-Portable.exe",
   "shortcuts": [
     [
